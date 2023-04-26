@@ -1,4 +1,5 @@
-# smu_dm_project_2
+# Data Mining Project 2 for SMU
+
 
 The following datasets are unavailable due to GitHub's maximum size:
 
